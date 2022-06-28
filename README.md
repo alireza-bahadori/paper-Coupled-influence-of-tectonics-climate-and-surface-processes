@@ -22,6 +22,8 @@ We recommend visualization of the output files using the open-source software �
 Detailed instructions for installation of UWGeodynamics can be found at:  
 https://github.com/underworldcode/UWGeodynamics
 
+### Note that simulations are run forward in time starting from time 0.0 (step #0) which is the late Eocene time (36.0 Ma). Hence, a simulation at time 500000.0 year represents 35.5 Ma.
+
 This repository includes a Jupyter Notebook file “WUS_4D_simulation.ipynb” that can be run to reproduce the simulations presented in this work. 
 
 The python file “WUS_4D_simulation.py” can be used to run the simulation inside a docker container for UWGeodynamics on a Linux system.
