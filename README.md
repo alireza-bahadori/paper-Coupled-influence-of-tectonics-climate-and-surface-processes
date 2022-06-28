@@ -50,7 +50,7 @@ The singularity container provided here (uwgeodynamics_latest.sif) can be used t
 
 singularity exec uwgeodynamics_latest.sif python WUS_4D_simulation.py
 
-### Here is an example of a successful initiation of the simulation at step #5 (or at 35.5Ma) with one CPU core using input files provided in this repository: 
+### Here is an example of a successful initiation of the simulation at step #5 (or at time 35.5Ma) with one CPU core and using input files provided in this repository: 
 
 ![Screen Shot 2022-06-28 at 2 08 55 PM](https://user-images.githubusercontent.com/54119695/176306825-7faca797-7f6c-4d2d-a2fa-19015aa35803.png)
 ![Screen Shot 2022-06-28 at 2 09 53 PM](https://user-images.githubusercontent.com/54119695/176306915-3817853d-6c2f-4f50-a367-a846d9551cb9.png)
