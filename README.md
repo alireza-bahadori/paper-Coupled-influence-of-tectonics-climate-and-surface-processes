@@ -44,7 +44,7 @@ rain_mapes
 
 After your simulations from 35.5-35.0Ma is completed, you need to perform the following command:
 
-cp -r Output_WUS_3D_results/. Output_WUS_3D
+cp -r Output_WUS_3D_backups/. Output_WUS_3D
 
 You can then run the simulation from step #10 onward or from 35.0-34.5 Ma by updating the name of the input files for temperature, traction, and surface processes parameters at time 35.0Ma in “WUS_4D_simulation.py”.
 
