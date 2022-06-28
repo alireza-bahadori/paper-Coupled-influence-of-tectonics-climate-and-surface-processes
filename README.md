@@ -1,5 +1,4 @@
-# 
-Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America
+# Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America
 
 This repository belongs to the paper
 
