@@ -48,7 +48,7 @@ cp -r Output_WUS_3D_backups/. Output_WUS_3D
 
 You can then run the simulation from step #10 onward or from 35.0-34.5 Ma by updating the name of the input files for temperature, traction, and surface processes parameters at time 35.0Ma in “WUS_4D_simulation.py”.
 
-To run the simulations inside a singularity container the following command can be used:
+The singularity container provided here (uwgeodynamics_latest.sif) can be used to run the simulation on a cluster using the following command:
 
 singularity exec uwgeodynamics_latest.sif python WUS_4D_simulation.py
 
