@@ -1,12 +1,12 @@
 # Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America
 
-This repository belongs to the paper
+## This repository belongs to the paper
 
-Bahadori et al. (2022) “Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America”
+## Bahadori et al. (2022) “Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America”
 
-and contains the input files (*.txt, *.xml, *.h5, *.hdf5, *.xmf) to the UWGeodynamics code used to compute the model results in the paper.
+## and contains the input files (*.txt, *.xml, *.h5, *.hdf5, *.xmf) to the UWGeodynamics code used to compute the model results in the paper.
 
-The simulations presented in the manuscript were run using UWGeodynamics version 2.10.1.
+### The simulations presented in the manuscript were run using UWGeodynamics version 2.10.1.
 
 The original version of the code used to perform the simulations in this study can be accessed at: 
 https://github.com/underworldcode/UWGeodynamics
