@@ -36,10 +36,10 @@ The directories named “outbdls” and “Output_WUS_3D” include the simulati
 
 “WUS_4D_simulation.py” file uses input data (e.g., temperature at 35.5Ma, traction field at 35.5Ma, rainfall maps at 35.5Ma, sea level fluctuation data at 35.5Ma, and model parameter file for surface processes at 35.5Ma) provided in directories named:
 
-"sea_level"
-"UWG_temperature"
-"UWG_traction"
-"maped_rain"
+"sea_level",
+"UWG_temperature",
+"UWG_traction",
+"maped_rain",
 "rain_mapes"
 
 After your simulations from 35.5-35.0Ma is completed, you need to perform the following command:
