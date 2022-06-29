@@ -28,7 +28,7 @@ This repository includes a Jupyter Notebook file “WUS_4D_simulation.ipynb” t
 
 The python file “WUS_4D_simulation.py” can be used to run the simulation inside a docker container for UWGeodynamics on a Linux system.
 
-You need to copy the directory “Bahadori_et_al_Nature_Communications_2022” into your docker container for UWGeodynamcis and run the following command inside the directory:
+You need to copy the directory “paper_Coupled_influence_of_tectonics_climate_and_surface_processes” into your docker container for UWGeodynamcis and run the following command inside the directory:
 
 python WUS_4D_simulation.py
 
