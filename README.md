@@ -31,6 +31,7 @@ The python file “WUS_4D_simulation.py” can be used to run the simulation ins
 You need to copy the directory “paper_Coupled_influence_of_tectonics_climate_and_surface_processes” into your docker container for UWGeodynamcis and run the following commands inside the directory:
 
 cp -r Output_WUS_3D Output_WUS_3D_backups
+
 python WUS_4D_simulation.py
 
 The directories named “outbdls” and “Output_WUS_3D” include the simulation output files from 36-35.5 Ma for surface processes and geodynamic models, respectively. The python file named “WUS_4D_simulation.py” will restart the simulation from step #5 or from 35.5 Ma onward and will stop the simulations at 35.0 Ma. 
