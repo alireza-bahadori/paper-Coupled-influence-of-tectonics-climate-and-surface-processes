@@ -1,5 +1,5 @@
 # Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America
-
+https://user-images.githubusercontent.com/54119695/176478676-fded78bc-05b4-44c3-a6ab-7d42ef5c79de.mov
 ### This repository belongs to the paper
 
 ### Bahadori et al. (2022) “Coupled influence of tectonics, climate, and surface processes on landscape evolution in southwestern North America”
